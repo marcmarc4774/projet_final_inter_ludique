@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-GbvC6YQmRYacE9X0wxVk14RXtVQ11ApnGSfn2LrGSGo=","packageName":"com.unity.burst","packageVersion":"1.8.30","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}
