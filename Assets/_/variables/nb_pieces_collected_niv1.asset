@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8b19a3fc3bb9540dc803161f015a4f79, type: 3}
-  m_Name: nb_pieces_collected
+  m_Name: nb_pieces_collected_niv1
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.IntVariable
   m_Id: e825ad1d10214d09b29a35ebc7968835
   Persistent: 0
