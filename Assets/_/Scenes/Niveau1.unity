@@ -14943,6 +14943,178 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
+--- !u!1 &731016793
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 731016795}
+  - component: {fileID: 731016794}
+  m_Layer: 0
+  m_Name: Spline
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &731016794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 731016793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dab5c7d4c32e743048dfca98e2d5914f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Splines::UnityEngine.Splines.SplineContainer
+  m_Spline:
+    m_EditModeType: 1
+    m_Knots: []
+    m_MetaData: []
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  m_Splines:
+  - m_EditModeType: 1
+    m_Knots:
+    - Position:
+        x: 0
+        y: 0
+        z: 0
+      TangentIn:
+        x: -0
+        y: -0
+        z: -2.8284805
+      TangentOut:
+        x: 0
+        y: 0
+        z: 2.6557245
+      Rotation:
+        value:
+          x: -0.0000000051426636
+          y: 0.90790445
+          z: -0.000000012610999
+          w: 0.4191772
+    - Position:
+        x: -55.112206
+        y: -0.0000018849814
+        z: -76.58615
+      TangentIn:
+        x: 0
+        y: 0
+        z: -59.371056
+      TangentOut:
+        x: 0
+        y: 0
+        z: 59.371056
+      Rotation:
+        value:
+          x: -0.000000007332782
+          y: -0.21441378
+          z: -0.000000001609685
+          w: 0.9767429
+    - Position:
+        x: -15.942417
+        y: -0.00000088234196
+        z: -11.117597
+      TangentIn:
+        x: 0
+        y: 0
+        z: -51.655376
+      TangentOut:
+        x: 0
+        y: 0
+        z: 51.655376
+      Rotation:
+        value:
+          x: 8.27913e-10
+          y: -0.6390154
+          z: 6.877969e-10
+          w: 0.76919395
+    - Position:
+        x: -59.489323
+        y: 0.0000006756486
+        z: -8.081907
+      TangentIn:
+        x: 0
+        y: 0
+        z: -17.825563
+      TangentOut:
+        x: 0
+        y: 0
+        z: 17.825563
+      Rotation:
+        value:
+          x: -0.000000020666437
+          y: 0.8973098
+          z: -0.00000004201211
+          w: -0.44140133
+    - Position:
+        x: -75.85301
+        y: -0.0000018124842
+        z: -75.50916
+      TangentIn:
+        x: 0
+        y: 0
+        z: -9.506061
+      TangentOut:
+        x: 0
+        y: 0
+        z: 9.506061
+      Rotation:
+        value:
+          x: 0.000000016852898
+          y: 0.92028594
+          z: 0.000000039641208
+          w: -0.39124647
+    m_MetaData:
+    - Mode: 4
+      Tension: 0.5
+    - Mode: 2
+      Tension: 0.5
+    - Mode: 2
+      Tension: 0.5
+    - Mode: 2
+      Tension: 0.5
+    - Mode: 2
+      Tension: 0.5
+    m_Closed: 1
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  m_Knots:
+    m_KnotsLink: []
+--- !u!4 &731016795
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 731016793}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 77.08131, y: 0.0000009935393, z: 19.463034}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &737658238 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
@@ -37930,6 +38102,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: coin
       objectReference: {fileID: 0}
+    - target: {fileID: 8947432906594741205, guid: 5f664b81785477647b05bbaa73173e5e, type: 3}
+      propertyPath: targetVariable
+      value: 
+      objectReference: {fileID: 11400000, guid: f70a94d8dad187e45ac745b35bd2dfec, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38083,3 +38259,4 @@ SceneRoots:
   - {fileID: 1015140950}
   - {fileID: 255446329}
   - {fileID: 1002882457}
+  - {fileID: 731016795}
