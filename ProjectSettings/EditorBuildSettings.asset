@@ -23,5 +23,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_/Scenes/GAME OVER.unity
     guid: ffff151d8770ffb4cbe7355dc2a55b99
+  - enabled: 1
+    path: Assets/_/Scenes/Credits.unity
+    guid: 44c11b9bf7e19cf43a03e0de9d64f1b2
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
