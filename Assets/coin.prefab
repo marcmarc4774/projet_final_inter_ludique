@@ -226,8 +226,29 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2216483366053973398}
   m_SourcePrefab: {fileID: 100100000, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+--- !u!1 &4009609373647281619 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+  m_PrefabInstance: {fileID: 4279993779976380546}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2216483366053973398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4009609373647281619}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ffdd24a70818d4409f8d40019f63b4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CoinRotation
+  rotationSpeed: 180
 --- !u!4 &4390779666401773417 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
