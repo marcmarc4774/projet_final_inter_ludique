@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 4e154bf235e41704bbd6bbc6fd6c63f6, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 0af727e68b9706d43b3e96be15eb5db8, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -1107,7 +1107,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 117629930}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 768984fa89caab94a8b57c66e25fa18f, type: 2}
   m_CullingMode: 0
@@ -1121,6 +1121,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!111 &117629939
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 117629930}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: -3419257869308726280, guid: e96315bb103954648b3e1ba5cf18d0a0, type: 3}
+  m_Animations:
+  - {fileID: -3419257869308726280, guid: 998403c5d9bc7e44c90cc861dbfd2820, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0
 --- !u!1001 &118308373
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19931,6 +19948,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 998403c5d9bc7e44c90cc861dbfd2820, type: 3}
       insertIndex: -1
       addedObject: {fileID: 117629937}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 998403c5d9bc7e44c90cc861dbfd2820, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 117629939}
   m_SourcePrefab: {fileID: 100100000, guid: 998403c5d9bc7e44c90cc861dbfd2820, type: 3}
 --- !u!1 &2067542314 stripped
 GameObject:
