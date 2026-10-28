@@ -535,6 +535,7 @@ GameObject:
   - component: {fileID: 544745047}
   - component: {fileID: 544745046}
   - component: {fileID: 544745045}
+  - component: {fileID: 544745048}
   m_Layer: 5
   m_Name: QuitGame
   m_TagString: Untagged
@@ -584,8 +585,8 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_HighlightedColor: {r: 0.6901961, g: 0.6901961, b: 0.6901961, a: 1}
+    m_PressedColor: {r: 0.26666668, g: 0.26666668, b: 0.26666668, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -609,6 +610,18 @@ MonoBehaviour:
       - m_Target: {fileID: 227797603}
         m_TargetAssemblyTypeName: QuitGame, Assembly-CSharp
         m_MethodName: Quit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 1674547326}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: Play
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -656,6 +669,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 544745043}
   m_CullTransparentMesh: 1
+--- !u!114 &544745048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544745043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 182d48e26c4098a44806c4c7c13102ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UIHoverSound
+  audioSource: {fileID: 923526652}
+  hoverSound: {fileID: 8300000, guid: 595291817f2e69446a64554363b2df89, type: 3}
 --- !u!1 &705962726
 GameObject:
   m_ObjectHideFlags: 0
@@ -757,7 +784,7 @@ AudioSource:
   m_GameObject: {fileID: 923526651}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 3486740312085707303, guid: 7a8e41760c4d8dc4fa0ba00108816c9c, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 595291817f2e69446a64554363b2df89, type: 3}
   m_PlayOnAwake: 0
@@ -1574,7 +1601,7 @@ AudioSource:
   m_GameObject: {fileID: 1674547325}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 3486740312085707303, guid: 7a8e41760c4d8dc4fa0ba00108816c9c, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 7c8c6bae57804a24ea2ebbc6a4fd703c, type: 3}
   m_PlayOnAwake: 0
