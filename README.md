@@ -24,3 +24,7 @@ Projet final du cours d'interactivité ludique
 10. Funny Cartoon Music par MaksymMalko sur Pixabay SFX: [Funny Cartoon Music](https://pixabay.com/sound-effects/nature-funny-cartosur-music-532611/) Type: Musique. Licence CC0
 
 11. Funny Cartoon Sound 4 par lucadialessandro sur Pixabay SFX: [Funny Cartoon Sound 4](https://pixabay.com/sound-effects/musical-funny-cartoon-sound-4-464864/) Type: SFX. Licence CC0
+
+12. Cartoon 6 par AleXZavesa sur Pixabay SFX: [Cartoon 6](https://pixabay.com/sound-effects/musical-cartoon-6-468373/) Type: SFX. Licence CC0
+
+13. Boss Cartoon par Studio Hello Good sur dafont: [Boss Cartoon](https://www.dafont.com/fr/boss-cartoon.font) Type: Font. Licence CC0
