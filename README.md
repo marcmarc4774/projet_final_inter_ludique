@@ -16,7 +16,7 @@ Projet final du cours d'interactivité ludique
 
 7. Ambience Wind Blowing Through Trees 01 par Traian1284 sur Pixabay SFX: [Ambience Wind Blowing Through Trees 01](https://pixabay.com/sound-effects/nature-ambience-wind-blowing-through-trees-01-186986/) Type: SFX. Licence: CC0.
 
-8. Game Over Deep Male Voice Clip par Universfield sur Pixabay SFX: [Game Over Deep Male Voice Clip par Universfield](https://pixabay.com/sound-effects/film-special-effects-game-over-deep-male-voice-clip-352695/) Type SFX. Licence: CC0.
+8. Funny Cartoon Sound par lucadialessandro sur Pixabay SFX: [Funny Cartoon Sound](https://pixabay.com/sound-effects/musical-funny-cartoon-sound-397415/): Type: SFX. Licence CC0
 
 9. Volumetric Lines par Johannes Unterguggenberger sur the Unity Assets store: [Volumetric Lines](https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160) Type: Assets. Licence: [Standard Unity Asset Store EULA
 ](https://unity.com/fr/legal/as-terms)
