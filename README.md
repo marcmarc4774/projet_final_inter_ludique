@@ -22,3 +22,5 @@ Projet final du cours d'interactivité ludique
 ](https://unity.com/fr/legal/as-terms)
 
 10. Funny Cartoon Music par MaksymMalko sur Pixabay SFX: [Funny Cartoon Music](https://pixabay.com/sound-effects/nature-funny-cartosur-music-532611/) Type: Musique. Licence CC0
+
+11. Funny Cartoon Sound 4 par lucadialessandro sur Pixabay SFX: [Funny Cartoon Sound 4](https://pixabay.com/sound-effects/musical-funny-cartoon-sound-4-464864/) Type: SFX. Licence CC0
