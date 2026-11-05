@@ -2,7 +2,7 @@
 Projet final du cours d'interactivité ludique
 
 ## Credits: 
-1. Csurtinuous Rock Sliding Sound Effect par Creator Templates sur Youtube: [Csurtinuous Rock Sliding Sound Effect](https://www.youtube.com/watch?v=ORTPtojo7tA) Type: SFX. Licence: CC0.
+1. Continuous Rock Sliding Sound Effect par Creator Templates sur Youtube: [Continuous Rock Sliding Sound Effect](https://www.youtube.com/watch?v=ORTPtojo7tA) Type: SFX. Licence: CC0.
 
 2. Minimalist Buttsur Hover sound Effect par Lesiakower sur Pixabay SFX: [Minimalist Buttsur Hvoer sound Effect](https://pixabay.com/sound-effects/film-special-effects-minimalist-buttsur-hover-sound-effect-399749/) Type: SFX. Licence: CC0.
 
@@ -28,3 +28,5 @@ Projet final du cours d'interactivité ludique
 12. Cartoon 6 par AleXZavesa sur Pixabay SFX: [Cartoon 6](https://pixabay.com/sound-effects/musical-cartoon-6-468373/) Type: SFX. Licence CC0
 
 13. Boss Cartoon par Studio Hello Good sur dafont: [Boss Cartoon](https://www.dafont.com/fr/boss-cartoon.font) Type: Font. Licence CC0
+
+14. Old Skool Piano par JTWAYNE sur Pixabay SFX: [Old Skool Piano](https://pixabay.com/sound-effects/musical-old-skool-piano-495397/) type: Musique. Licence CC0
