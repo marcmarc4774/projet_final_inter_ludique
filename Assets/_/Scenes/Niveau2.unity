@@ -641,6 +641,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1110,6 +1114,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1389,6 +1397,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2370,6 +2382,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2467,6 +2483,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2986,6 +3006,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3088,6 +3112,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3189,6 +3217,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3373,6 +3405,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3784,6 +3820,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3885,6 +3925,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4207,6 +4251,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4382,6 +4430,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4467,6 +4519,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 304fc5ab2590d7545a38fb96b99d8d2f, type: 3}
       propertyPath: m_Name
       value: tree-snow (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 304fc5ab2590d7545a38fb96b99d8d2f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4776,6 +4832,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rocks (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 48a23d3db6b1b0a43b2dcf909a3f93ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4873,6 +4933,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e844498ecdbb8a8439212a091011faa0, type: 3}
       propertyPath: m_Name
       value: block-snow-overhang-large-slope-steep-narrow (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e844498ecdbb8a8439212a091011faa0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5173,6 +5237,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5258,6 +5326,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 304fc5ab2590d7545a38fb96b99d8d2f, type: 3}
       propertyPath: m_Name
       value: tree-snow (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 304fc5ab2590d7545a38fb96b99d8d2f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5506,6 +5578,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-overhang-large-slope-steep-narrow (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e844498ecdbb8a8439212a091011faa0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5592,6 +5668,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 304fc5ab2590d7545a38fb96b99d8d2f, type: 3}
       propertyPath: m_Name
       value: tree-snow (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 304fc5ab2590d7545a38fb96b99d8d2f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6184,6 +6264,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6285,6 +6369,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6791,6 +6879,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4f96e8667d9d6744fa0ae78f98746723, type: 3}
       propertyPath: m_Name
       value: fence-low-corner
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4f96e8667d9d6744fa0ae78f98746723, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7432,6 +7524,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8087,6 +8183,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8188,6 +8288,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e844498ecdbb8a8439212a091011faa0, type: 3}
       propertyPath: m_Name
       value: block-snow-overhang-large-slope-steep-narrow (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e844498ecdbb8a8439212a091011faa0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8417,6 +8521,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence-straight
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ea725a19bc3996349a58b58295f9c36f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8572,6 +8680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8657,6 +8769,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4c6f55024af857848af11c275c97a7f8, type: 3}
       propertyPath: m_Name
       value: tree-pine-snow (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4c6f55024af857848af11c275c97a7f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8803,6 +8919,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9065,6 +9185,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9156,6 +9280,135 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9bbe25b4aad435d458f842d2a75bd038, type: 3}
+--- !u!1 &803473791
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 803473793}
+  - component: {fileID: 803473792}
+  m_Layer: 0
+  m_Name: ambience
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &803473792
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 803473791}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 5326938646997460818, guid: 7a8e41760c4d8dc4fa0ba00108816c9c, type: 2}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 72c9e9507d1856e40895c796d3bd8cca, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.642
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &803473793
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 803473791}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 36.85395, y: 13.25, z: -16.813648}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &845767173
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9337,6 +9590,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4c6f55024af857848af11c275c97a7f8, type: 3}
       propertyPath: m_Name
       value: tree-pine-snow (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4c6f55024af857848af11c275c97a7f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9786,6 +10043,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10397,6 +10658,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10750,6 +11015,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10966,6 +11235,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stones (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a14c66892be03840856e7e8fd660898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11038,6 +11311,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11124,6 +11401,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 36b2c0834e1188a4aa4588c43630eae8, type: 3}
       propertyPath: m_Name
       value: crate
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 36b2c0834e1188a4aa4588c43630eae8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11325,6 +11606,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11496,6 +11781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11593,6 +11882,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5c0f17ede87a98d4ab9a22cb62cecb6c, type: 3}
       propertyPath: m_Name
       value: sign
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5c0f17ede87a98d4ab9a22cb62cecb6c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11695,6 +11988,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11854,6 +12151,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 48a23d3db6b1b0a43b2dcf909a3f93ba, type: 3}
       propertyPath: m_Name
       value: rocks
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 48a23d3db6b1b0a43b2dcf909a3f93ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12053,6 +12354,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12444,6 +12749,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: crate-strong
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dca87fa6cf40312409af0f4bb341d0fa, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12546,6 +12855,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12644,6 +12957,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12678,88 +12995,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.0821247, y: 0.49999997, z: 2.0821247}
   m_Center: {x: 0, y: 0.24999999, z: 0}
---- !u!21 &1223058925
-Material:
-  serializedVersion: 8
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: SingleLine-LightSaber(Clone)
-  m_Shader: {fileID: 4800000, guid: 2d9a4ca4b2730b64e8aade7030f8caeb, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_LockedProperties: 
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _BumpMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailAlbedoMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailMask:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailNormalMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _EmissionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MainTex:
-        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MetallicGlossMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _OcclusionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _ParallaxMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Ints: []
-    m_Floats:
-    - _BumpScale: 1
-    - _Cutoff: 0.5
-    - _DetailNormalMapScale: 1
-    - _DstBlend: 0
-    - _Glossiness: 0.5
-    - _LightSaberFactor: 0.518
-    - _LineScale: 0.49715084
-    - _LineWidth: 20
-    - _Metallic: 0
-    - _Mode: 0
-    - _OcclusionStrength: 1
-    - _Parallax: 0.02
-    - _SrcBlend: 1
-    - _UVSec: 0
-    - _UvBasedLightSaberFactor: 0
-    - _ZWrite: 1
-    m_Colors:
-    - _Color: {r: 0.021979034, g: 1, b: 0, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-  m_BuildTextureStacks: []
-  m_AllowLocking: 1
 --- !u!21 &1223764157
 Material:
   serializedVersion: 8
@@ -12979,6 +13214,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13064,6 +13303,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9a14c66892be03840856e7e8fd660898, type: 3}
       propertyPath: m_Name
       value: stones (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a14c66892be03840856e7e8fd660898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13559,6 +13802,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: crate (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 36b2c0834e1188a4aa4588c43630eae8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13656,6 +13903,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13755,6 +14006,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13840,6 +14095,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 36b2c0834e1188a4aa4588c43630eae8, type: 3}
       propertyPath: m_Name
       value: crate (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 36b2c0834e1188a4aa4588c43630eae8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14000,6 +14259,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree-pine-snow-small
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9bbe25b4aad435d458f842d2a75bd038, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14104,6 +14367,88 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
+--- !u!21 &1316967588
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SingleLine-LightSaber(Clone)
+  m_Shader: {fileID: 4800000, guid: 2d9a4ca4b2730b64e8aade7030f8caeb, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Glossiness: 0.5
+    - _LightSaberFactor: 0.518
+    - _LineScale: 0.49715084
+    - _LineWidth: 20
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _UvBasedLightSaberFactor: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0.021979034, g: 1, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!1001 &1320741522
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14241,6 +14586,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14342,6 +14691,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e844498ecdbb8a8439212a091011faa0, type: 3}
       propertyPath: m_Name
       value: block-snow-overhang-large-slope-steep-narrow
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e844498ecdbb8a8439212a091011faa0, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14475,6 +14828,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e54d960dd08277448b8caf9b5faeb6ec, type: 3}
       propertyPath: m_Name
       value: mushrooms
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e54d960dd08277448b8caf9b5faeb6ec, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14615,6 +14972,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9a14c66892be03840856e7e8fd660898, type: 3}
       propertyPath: m_Name
       value: stones (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a14c66892be03840856e7e8fd660898, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14791,6 +15152,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14888,6 +15253,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14991,6 +15360,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15093,6 +15466,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15190,6 +15567,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15562,6 +15943,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: crate (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 36b2c0834e1188a4aa4588c43630eae8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15664,6 +16049,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15739,6 +16128,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16143,6 +16536,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16245,6 +16642,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16342,6 +16743,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16721,6 +17126,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16977,6 +17386,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 36b2c0834e1188a4aa4588c43630eae8, type: 3}
       propertyPath: m_Name
       value: crate (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 36b2c0834e1188a4aa4588c43630eae8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17877,6 +18290,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: crate (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 36b2c0834e1188a4aa4588c43630eae8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18047,6 +18464,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18505,6 +18926,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18580,6 +19005,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18825,6 +19254,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18926,6 +19359,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19097,6 +19534,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ea725a19bc3996349a58b58295f9c36f, type: 3}
       propertyPath: m_Name
       value: fence-straight (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ea725a19bc3996349a58b58295f9c36f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19372,6 +19813,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19800,6 +20245,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19902,6 +20351,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20003,6 +20456,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20325,6 +20782,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20505,6 +20966,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21055,6 +21520,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21141,6 +21610,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tree-pine-snow (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4c6f55024af857848af11c275c97a7f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21213,6 +21686,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21677,6 +22154,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21847,6 +22328,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22185,6 +22670,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22287,6 +22776,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22372,6 +22865,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f13496eff2fdeb14b8efe6c9a3c8aab9, type: 3}
       propertyPath: m_Name
       value: crate-item-strong
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f13496eff2fdeb14b8efe6c9a3c8aab9, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22474,6 +22971,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22637,6 +23138,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 48a23d3db6b1b0a43b2dcf909a3f93ba, type: 3}
       propertyPath: m_Name
       value: rocks (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 48a23d3db6b1b0a43b2dcf909a3f93ba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22812,6 +23317,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23124,6 +23633,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-snow-low-large (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23225,6 +23738,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
       propertyPath: m_Name
       value: block-snow-low-large (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 804303fa20412524cb1d38edde0db4a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23890,6 +24407,7 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1792082035}
+  - {fileID: 803473793}
   - {fileID: 1263690457}
   - {fileID: 1666953026}
   - {fileID: 702715239}
