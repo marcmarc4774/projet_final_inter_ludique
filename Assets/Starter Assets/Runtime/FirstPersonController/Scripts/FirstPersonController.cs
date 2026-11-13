@@ -3,6 +3,7 @@
 using UnityEngine.InputSystem;
 #endif
 
+
 namespace StarterAssets
 {
 	[RequireComponent(typeof(CharacterController))]
@@ -26,6 +27,8 @@ namespace StarterAssets
 		public float JumpHeight = 1.2f;
 		[Tooltip("The character uses its own gravity value. The engine default is -9.81f")]
 		public float Gravity = -15.0f;
+
+
 
 		[Space(10)]
 		[Tooltip("Time required to pass before being able to jump again. Set to 0f to instantly jump again")]
@@ -64,7 +67,7 @@ namespace StarterAssets
 		private float _jumpTimeoutDelta;
 		private float _fallTimeoutDelta;
 
-	
+
 #if ENABLE_INPUT_SYSTEM
 		private PlayerInput _playerInput;
 #endif
@@ -78,11 +81,11 @@ namespace StarterAssets
 		{
 			get
 			{
-				#if ENABLE_INPUT_SYSTEM
+#if ENABLE_INPUT_SYSTEM
 				return _playerInput.currentControlScheme == "KeyboardMouse";
-				#else
+#else
 				return false;
-				#endif
+#endif
 			}
 		}
 
@@ -109,9 +112,15 @@ namespace StarterAssets
 			_jumpTimeoutDelta = JumpTimeout;
 			_fallTimeoutDelta = FallTimeout;
 		}
+		public void LaunchPlayer(float force)
+		{
+			_verticalVelocity = force;
+		}
 
 		private void Update()
+
 		{
+
 			JumpAndGravity();
 			GroundedCheck();
 			Move();
@@ -136,7 +145,7 @@ namespace StarterAssets
 			{
 				//Don't multiply mouse input by Time.deltaTime
 				float deltaTimeMultiplier = IsCurrentDeviceMouse ? 1.0f : Time.deltaTime;
-				
+
 				_cinemachineTargetPitch += _input.look.y * RotationSpeed * deltaTimeMultiplier;
 				_rotationVelocity = _input.look.x * RotationSpeed * deltaTimeMultiplier;
 
