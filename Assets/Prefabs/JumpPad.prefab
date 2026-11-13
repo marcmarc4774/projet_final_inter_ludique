@@ -149,5 +149,6 @@ MonoBehaviour:
   hintTargetMode: 1
   hintRenderer: {fileID: 0}
   hintMaterial: {fileID: 0}
-  requiredTags: []
+  requiredTags:
+  - Player
   debugColor: {r: 1, g: 0.4, b: 0, a: 0.3}
