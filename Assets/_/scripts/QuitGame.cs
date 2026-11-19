@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-public class OkBye : MonoBehaviour
+public class QuitGame : MonoBehaviour
 {
     void Awake()
     {
