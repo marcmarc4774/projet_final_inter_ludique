@@ -527,6 +527,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -846,6 +850,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_TagString
       value: sound
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1208,6 +1216,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1724,6 +1736,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1994,6 +2010,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2399,6 +2419,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2562,6 +2586,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2663,6 +2691,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2766,6 +2798,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2842,6 +2878,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2852,6 +2892,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       insertIndex: -1
       addedObject: {fileID: 212109109}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 212109111}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 212109115}
   m_SourcePrefab: {fileID: 100100000, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
 --- !u!1 &212109108 stripped
 GameObject:
@@ -2902,6 +2948,41 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.0821247, y: 0.49999997, z: 2.0821247}
   m_Center: {x: 0, y: 0.24999999, z: 0}
+--- !u!114 &212109111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 212109108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43a443c62d1c45743abd12d66584b5da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MovingPlatform
+  suivreRotation: 1
+  distanceDetection: 0.2
+--- !u!65 &212109115
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 212109108}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.082125, y: 0.49999997, z: 2.082125}
+  m_Center: {x: 0, y: 0.5, z: 0}
 --- !u!1001 &222544708
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2969,6 +3050,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3312,88 +3397,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.0821247, y: 0.49999997, z: 2.0821247}
   m_Center: {x: 0, y: 0.24999999, z: 0}
---- !u!21 &253641860
-Material:
-  serializedVersion: 8
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: SingleLine-LightSaber(Clone)
-  m_Shader: {fileID: 4800000, guid: 2d9a4ca4b2730b64e8aade7030f8caeb, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_LockedProperties: 
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _BumpMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailAlbedoMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailMask:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailNormalMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _EmissionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MainTex:
-        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MetallicGlossMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _OcclusionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _ParallaxMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Ints: []
-    m_Floats:
-    - _BumpScale: 1
-    - _Cutoff: 0.5
-    - _DetailNormalMapScale: 1
-    - _DstBlend: 0
-    - _Glossiness: 0.5
-    - _LightSaberFactor: 0.518
-    - _LineScale: 0.49715
-    - _LineWidth: 20
-    - _Metallic: 0
-    - _Mode: 0
-    - _OcclusionStrength: 1
-    - _Parallax: 0.02
-    - _SrcBlend: 1
-    - _UVSec: 0
-    - _UvBasedLightSaberFactor: 0
-    - _ZWrite: 1
-    m_Colors:
-    - _Color: {r: 0.021979034, g: 1, b: 0, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-  m_BuildTextureStacks: []
-  m_AllowLocking: 1
 --- !u!1001 &283042616
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3461,6 +3464,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3706,6 +3713,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4006,6 +4017,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4238,6 +4253,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5154,6 +5173,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5377,6 +5400,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5559,6 +5586,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5719,6 +5750,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6052,6 +6087,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6153,6 +6192,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6393,6 +6436,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6494,6 +6541,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eaf5fde53a6393a4b9c2933712715323, type: 3}
       propertyPath: m_Name
       value: block-grass-large-slope-steep-narrow (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eaf5fde53a6393a4b9c2933712715323, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6682,6 +6733,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7147,6 +7202,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7248,6 +7307,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7579,6 +7642,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8198,6 +8265,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8597,6 +8668,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9236,6 +9311,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9386,6 +9465,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9487,6 +9570,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9616,6 +9703,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9717,6 +9808,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10146,6 +10241,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 608fb08005210d64fb5f04567e242db5, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1242762699}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 608fb08005210d64fb5f04567e242db5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1242762700}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 608fb08005210d64fb5f04567e242db5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1242762703}
   m_SourcePrefab: {fileID: 100100000, guid: 608fb08005210d64fb5f04567e242db5, type: 3}
 --- !u!1 &1016839366
 GameObject:
@@ -10425,6 +10526,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10526,6 +10631,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10757,6 +10866,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11568,37 +11681,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1204488184
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1204488185}
-  m_Layer: 0
-  m_Name: GameObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1204488185
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1204488184}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 35.48133, y: 0, z: -25.21577}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1230102148
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11666,6 +11748,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11768,6 +11854,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11956,6 +12046,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12057,6 +12151,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12198,6 +12296,41 @@ MonoBehaviour:
   m_ObjectForwardAxis: 2
   m_ObjectUpAxis: 1
   m_StartOffset: 0
+--- !u!114 &1242762700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242762688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43a443c62d1c45743abd12d66584b5da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MovingPlatform
+  suivreRotation: 1
+  distanceDetection: 0.2
+--- !u!65 &1242762703
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242762688}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 0.5, z: 1}
+  m_Center: {x: 0, y: 0.5, z: 0}
 --- !u!1001 &1249089066
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12265,6 +12398,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13255,6 +13392,88 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.0821247, y: 0.49999997, z: 2.0821247}
   m_Center: {x: 0, y: 0.24999999, z: 0}
+--- !u!21 &1360855402
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SingleLine-LightSaber(Clone)
+  m_Shader: {fileID: 4800000, guid: 2d9a4ca4b2730b64e8aade7030f8caeb, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Glossiness: 0.5
+    - _LightSaberFactor: 0.518
+    - _LineScale: 0.49715
+    - _LineWidth: 20
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _UvBasedLightSaberFactor: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0.021979034, g: 1, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!1 &1394559582
 GameObject:
   m_ObjectHideFlags: 0
@@ -13885,6 +14104,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14562,6 +14785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: zone_dead
       objectReference: {fileID: 0}
+    - target: {fileID: 7943089749138282332, guid: d161f917feea651449613e50669acad6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14939,6 +15166,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15040,6 +15271,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15503,6 +15738,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16475,6 +16714,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17298,6 +17541,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-large-slope-steep-narrow
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eaf5fde53a6393a4b9c2933712715323, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17373,6 +17620,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17947,6 +18198,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18073,6 +18328,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19403,6 +19662,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19478,6 +19741,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19657,6 +19924,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20086,6 +20357,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
       propertyPath: m_Name
       value: block-grass-low-large (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20691,6 +20966,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21294,6 +21573,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21508,6 +21791,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: block-grass-low-large (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 983d0881efb6b8a48a2759eb15d9c701, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21538,7 +21825,6 @@ SceneRoots:
   - {fileID: 1951977444}
   - {fileID: 666766050}
   - {fileID: 1408930710}
-  - {fileID: 1204488185}
   - {fileID: 1959174397}
   - {fileID: 1740704861}
   - {fileID: 1872185818}
