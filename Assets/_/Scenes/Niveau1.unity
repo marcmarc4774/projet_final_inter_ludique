@@ -143,6 +143,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 345236187}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 345236195}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -201,6 +205,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 345236187}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 345236195}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1001 &27524603
 PrefabInstance:
@@ -226,6 +233,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 626972298}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 626972306}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -284,6 +295,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 626972298}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 626972306}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1001 &45021252
 PrefabInstance:
@@ -309,6 +323,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 797737502}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -435,6 +453,69 @@ PrefabInstance:
       insertIndex: 2
       addedObject: {fileID: 1270011654}
   m_SourcePrefab: {fileID: 100100000, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+--- !u!1 &56719979
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 56719980}
+  - component: {fileID: 56719981}
+  m_Layer: 0
+  m_Name: Argent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &56719980
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 56719979}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 36.84584, y: 0.0141, z: -19.69861}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &56719981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 56719979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d58d5731548a9434896307a5af6ecbd2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Resource
+  startValue: 0
+  maximum: 0
+  goal: 0
+  variable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  resetOnStart: 1
+  text: {fileID: 1422458126}
+  format: x {0}
+  onAdded:
+    m_PersistentCalls:
+      m_Calls: []
+  onRemoved:
+    m_PersistentCalls:
+      m_Calls: []
+  onGoalReached:
+    m_PersistentCalls:
+      m_Calls: []
+  onInsufficientFunds:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &86638890 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
@@ -486,6 +567,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &86638900
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 86638890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1001 &113076159
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -510,6 +621,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 566210455}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 566210463}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -568,6 +683,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 566210455}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 566210463}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1001 &116864573
 PrefabInstance:
@@ -593,6 +711,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 1903204049}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -1367,6 +1489,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 1436901563}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1436901571}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -1425,6 +1551,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1436901563}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1436901571}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1 &277904296 stripped
 GameObject:
@@ -2090,6 +2219,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &345236195
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 345236185}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1001 &397198677
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2203,6 +2362,93 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.0821254, y: 0.99999994, z: 2.0821254}
   m_Center: {x: 0, y: 0.49999997, z: 0}
+--- !u!1001 &405632196
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1077845611}
+    m_Modifications:
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: afterTrigger
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: actions.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[0]'
+      value: 
+      objectReference: {fileID: 601393438}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[1]'
+      value: 
+      objectReference: {fileID: 601393437}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_Name
+      value: Trigger Sphere
+      objectReference: {fileID: 0}
+    - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.014667511
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.20939994
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.006468773
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 601393438}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 601393437}
+  m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -2925,6 +3171,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 1874737694}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1874737702}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -2983,6 +3233,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1874737694}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1874737702}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1 &521566414 stripped
 GameObject:
@@ -3035,6 +3288,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &521566424
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 521566414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1001 &550218815
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3240,6 +3523,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &566210463
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566210453}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1001 &581832930
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3352,6 +3665,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &584828395
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584828385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1001 &600769226
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3457,6 +3800,69 @@ MonoBehaviour:
   sceneAsset: {fileID: 102900000, guid: ffff151d8770ffb4cbe7355dc2a55b99, type: 3}
   scenePath: Assets/_/Scenes/GAME OVER.unity
   additive: 0
+--- !u!1 &601393435 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+  m_PrefabInstance: {fileID: 405632196}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &601393436 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8397212727133328596, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+  m_PrefabInstance: {fileID: 405632196}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &601393437
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 601393435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f247ad078a38435b9e19cb43acc693d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.AudioAction
+  target: {fileID: 1317649380}
+  operation: 0
+--- !u!114 &601393438
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 601393435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 021ce74f3be9f4ad2aeff0a1bcb9115d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.InvokeEventsAction
+  Events:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1228368395}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &618260872
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3575,6 +3981,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &626972306
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 626972296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1 &646480428
 GameObject:
   m_ObjectHideFlags: 0
@@ -3755,6 +4191,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &654872035
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3779,6 +4227,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 1184992904}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -3827,7 +4279,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1408168800617797213, guid: 31068bb35210cae439a9918a254222b1, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -3984,6 +4437,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &700905183
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 700905173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1 &710176219 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bf8a1a990c139d044b45c82ded508de2, type: 3}
@@ -4296,6 +4779,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -4468,6 +4963,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &951359802
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 951359792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1 &962921198
 GameObject:
   m_ObjectHideFlags: 0
@@ -4948,6 +5473,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2023902417}
+  - {fileID: 1422458125}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -5143,6 +5669,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1023927092
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023927082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1 &1041887269 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
@@ -5194,6 +5750,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1041887279
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1041887269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1 &1057856198 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
@@ -5313,6 +5899,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 1972193327}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -5433,6 +6023,29 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d524cd7de4fe2a34cbe35ba97d4030b2, type: 3}
+--- !u!1 &1077845607 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+  m_PrefabInstance: {fileID: 1993936434}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1077845609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1077845607}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ffdd24a70818d4409f8d40019f63b4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CoinRotation
+  rotationSpeed: 180
+--- !u!4 &1077845611 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+  m_PrefabInstance: {fileID: 1993936434}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1123055870
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5560,6 +6173,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 1041887271}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1041887279}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -5618,6 +6235,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1041887271}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1041887279}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1 &1147981522 stripped
 GameObject:
@@ -6067,6 +6687,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &1202329930
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6359,6 +6991,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 521566416}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 521566424}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -6417,6 +7053,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 521566416}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 521566424}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1 &1228368394
 GameObject:
@@ -6577,6 +7216,88 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 967256615}
   m_SourcePrefab: {fileID: 100100000, guid: bf8a1a990c139d044b45c82ded508de2, type: 3}
+--- !u!21 &1261970528
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SingleLine-LightSaber(Clone)
+  m_Shader: {fileID: 4800000, guid: 2d9a4ca4b2730b64e8aade7030f8caeb, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Glossiness: 0.5
+    - _LightSaberFactor: 0.518
+    - _LineScale: 0.3226505
+    - _LineWidth: 20
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _UvBasedLightSaberFactor: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0.21140593, g: 1, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!1 &1270011652 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
@@ -6608,6 +7329,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1667445429}
     m_Modifications:
+    - target: {fileID: 1408168800617797213, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: afterTrigger
       value: 2
@@ -6624,6 +7349,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 1374969182}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -7025,6 +7754,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1323617764
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1323617754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1001 &1367442241
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7049,6 +7808,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 647146491}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -7159,6 +7922,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &1388460431
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7249,6 +8024,143 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.5, y: 0.5, z: 0.5}
   m_Center: {x: 0.000000052154064, y: 0.25, z: 0.000000052154064}
+--- !u!1 &1422458124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1422458125}
+  - component: {fileID: 1422458127}
+  - component: {fileID: 1422458126}
+  m_Layer: 5
+  m_Name: Argents_Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1422458125
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1422458124}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1005415127}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -759, y: 470.55005}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1422458126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1422458124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: allowt
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 9e9343e7bfd99954fbc1f106443891ee, type: 2}
+  m_sharedMaterial: {fileID: 2988527310885825887, guid: 9e9343e7bfd99954fbc1f106443891ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_characterHorizontalScale: 1
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1422458127
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1422458124}
+  m_CullTransparentMesh: 1
 --- !u!1 &1434327501 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bf8a1a990c139d044b45c82ded508de2, type: 3}
@@ -7398,6 +8310,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1436901571
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1436901561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1 &1461253159 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
@@ -7614,6 +8556,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 1323617756}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1323617764}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -7672,6 +8618,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1323617756}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1323617764}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1 &1524371700 stripped
 GameObject:
@@ -7924,6 +8873,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 86638892}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 86638900}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -7982,6 +8935,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 86638892}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 86638900}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1001 &1637361725
 PrefabInstance:
@@ -8174,6 +9130,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 584828387}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 584828395}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -8232,6 +9192,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 584828387}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 584828395}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1 &1667445425 stripped
 GameObject:
@@ -8917,6 +9880,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 1023927084}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1023927092}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -8975,6 +9942,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1023927084}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1023927092}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!1001 &1749961888
 PrefabInstance:
@@ -9785,6 +10755,36 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1874737702
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874737692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b72530ebdb347f183b4a6e502bd4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableAction
+  targetVariable: {fileID: 11400000, guid: eda36c416517579429b322a96b10dfff, type: 2}
+  valueMode: 1
+  floatValue: 0
+  intValue: 1
+  boolValue: 0
+  stringValue: 
 --- !u!1 &1903204047 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
@@ -9825,6 +10825,18 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1228368395}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 56719981}
         m_TargetAssemblyTypeName: Resource, Assembly-CSharp
         m_MethodName: Add
         m_Mode: 3
@@ -10209,6 +11221,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 56719981}
+        m_TargetAssemblyTypeName: Resource, Assembly-CSharp
+        m_MethodName: Add
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &1975797516
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10377,6 +11401,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 951359794}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 951359802}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -10435,7 +11463,77 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 951359794}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 951359802}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+--- !u!1001 &1993936434
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 37.571533
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.471133
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710784
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_Name
+      value: coin-gold (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 601393436}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
+      insertIndex: 2
+      addedObject: {fileID: 1077845609}
+  m_SourcePrefab: {fileID: 100100000, guid: 1d3f2d29092b3784682e12487a8bcd84, type: 3}
 --- !u!1 &1995295112 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: ea725a19bc3996349a58b58295f9c36f, type: 3}
@@ -10488,88 +11586,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.0821254, y: 0.99999994, z: 2.0821254}
   m_Center: {x: 0, y: 0.49999997, z: 0}
---- !u!21 &2018309145
-Material:
-  serializedVersion: 8
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: SingleLine-LightSaber(Clone)
-  m_Shader: {fileID: 4800000, guid: 2d9a4ca4b2730b64e8aade7030f8caeb, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_LockedProperties: 
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _BumpMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailAlbedoMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailMask:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailNormalMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _EmissionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MainTex:
-        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MetallicGlossMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _OcclusionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _ParallaxMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Ints: []
-    m_Floats:
-    - _BumpScale: 1
-    - _Cutoff: 0.5
-    - _DetailNormalMapScale: 1
-    - _DstBlend: 0
-    - _Glossiness: 0.5
-    - _LightSaberFactor: 0.518
-    - _LineScale: 0.3226505
-    - _LineWidth: 20
-    - _Metallic: 0
-    - _Mode: 0
-    - _OcclusionStrength: 1
-    - _Parallax: 0.02
-    - _SrcBlend: 1
-    - _UVSec: 0
-    - _UvBasedLightSaberFactor: 0
-    - _ZWrite: 1
-    m_Colors:
-    - _Color: {r: 0.21140593, g: 1, b: 0, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-  m_BuildTextureStacks: []
-  m_AllowLocking: 1
 --- !u!1 &2023902416
 GameObject:
   m_ObjectHideFlags: 0
@@ -11151,6 +12167,10 @@ PrefabInstance:
       propertyPath: 'actions.Array.data[1]'
       value: 
       objectReference: {fileID: 700905175}
+    - target: {fileID: 4613362951003637225, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      propertyPath: 'actions.Array.data[2]'
+      value: 
+      objectReference: {fileID: 700905183}
     - target: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       propertyPath: m_Name
       value: Trigger Sphere
@@ -11209,6 +12229,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 700905175}
+    - targetCorrespondingSourceObject: {fileID: 7553348629099787411, guid: 31068bb35210cae439a9918a254222b1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 700905183}
   m_SourcePrefab: {fileID: 100100000, guid: 31068bb35210cae439a9918a254222b1, type: 3}
 --- !u!21 &2108596912
 Material:
@@ -12186,108 +13209,6 @@ MonoBehaviour:
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
---- !u!1001 &7949578022449319625
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3662073100212996667, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 37.667645
-      objectReference: {fileID: 0}
-    - target: {fileID: 3662073100212996667, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 3662073100212996667, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -12.304331
-      objectReference: {fileID: 0}
-    - target: {fileID: 3662073100212996667, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3662073100212996667, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3662073100212996667, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3662073100212996667, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3662073100212996667, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3662073100212996667, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3662073100212996667, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4150520852615909505, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: m_Name
-      value: coin-gold
-      objectReference: {fileID: 0}
-    - target: {fileID: 6602478050280770065, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: Events.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1228368395}
-    - target: {fileID: 7518173713948227602, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      propertyPath: target
-      value: 
-      objectReference: {fileID: 1317649380}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 635044463044347336, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 7949578022449319627}
-  m_SourcePrefab: {fileID: 100100000, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
---- !u!1 &7949578022449319626 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 635044463044347336, guid: 421c8480ad1c3cc4388bc1329113c519, type: 3}
-  m_PrefabInstance: {fileID: 7949578022449319625}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &7949578022449319627
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7949578022449319626}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
-  m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
-  m_CustomShadowLayers: 0
-  m_LightCookieSize: {x: 1, y: 1}
-  m_LightCookieOffset: {x: 0, y: 0}
-  m_SoftShadowQuality: 0
-  m_RenderingLayersMask:
-    serializedVersion: 0
-    m_Bits: 1
-  m_ShadowRenderingLayersMask:
-    serializedVersion: 0
-    m_Bits: 1
-  m_Version: 4
-  m_LightLayerMask: 1
-  m_ShadowLayerMask: 1
-  m_RenderingLayers: 1
-  m_ShadowRenderingLayers: 1
 --- !u!114 &8293773224724861267
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12440,6 +13361,7 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 330585546}
+  - {fileID: 56719980}
   - {fileID: 646480430}
   - {fileID: 1869658905}
   - {fileID: 1228368396}
@@ -12504,8 +13426,8 @@ SceneRoots:
   - {fileID: 296166259}
   - {fileID: 1760627109}
   - {fileID: 202924699}
-  - {fileID: 7949578022449319625}
   - {fileID: 245432267}
+  - {fileID: 1993936434}
   - {fileID: 2124992233}
   - {fileID: 1202329930}
   - {fileID: 992687055}
