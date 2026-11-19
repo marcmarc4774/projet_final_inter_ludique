@@ -18,7 +18,7 @@ Projet final du cours d'interactivité ludique
 
 8. Funny Cartoon Sound par lucadialessandro sur Pixabay SFX: [Funny Cartoon Sound](https://pixabay.com/sound-effects/musical-funny-cartoon-sound-397415/): Type: SFX. Licence CC0
 
-9. Volumetric Lines par Johannes Unterguggenberger sur the Unity Assets store: [Volumetric Lines](https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160) Type: Assets. Licence: [Standard Unity Asset Store EULA
+9. Volumetric Lines par Johannes Unterguggenberger sur Unity Assets store: [Volumetric Lines](https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160) Type: Assets. Licence: [Standard Unity Asset Store EULA
    ](https://unity.com/fr/legal/as-terms)
 
 10. Funny Cartoon Music par MaksymMalko sur Pixabay SFX: [Funny Cartoon Music](https://pixabay.com/sound-effects/nature-funny-cartosur-music-532611/) Type: Musique. Licence CC0
@@ -38,3 +38,9 @@ Projet final du cours d'interactivité ludique
 17. Cartoon jump par Bastianhallo (Freesound) sur Pixabay SFX: [Cartoon jump](https://pixabay.com/sound-effects/film-special-effects-cartoon-jump-6462/) Type: SFX. Licence CC0
 
 18. Metal Hit 91 par floraphonic sur Pixabay SFX: [Metal Hit 91](https://pixabay.com/sound-effects/film-special-effects-metal-hit-91-200421/) Type: SFX. Licence CC0
+
+19. Game UI Confirm Selection Sound #2 par Vadim_Makes_Sound sur Pixabay SFX: [Game UI Confirm Selection Sound](https://pixabay.com/sound-effects/technology-game-ui-confirm-selection-sound-2-547852/) Type: SFX. Licence CC0
+
+20. Playful - Playful Music par MaksymMalko sur Pixabay SFX: [Playful - Playful Music](https://pixabay.com/music/cartoons-playful-playful-music-604986/) Type: Musique. Licence CC0
+
+21. Cartoon - Cartoon Music par MaksyMalko sur Pixabay SFX: [Cartoon - Cartoon Music](https://pixabay.com/music/cartoons-cartoon-cartoon-music-577519/) Type: Musique. Licence CC0

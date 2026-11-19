@@ -22,6 +22,13 @@ namespace StarterAssets
 		[Tooltip("Acceleration and deceleration")]
 		public float SpeedChangeRate = 10.0f;
 
+		public void ChangeSpeed(float newSpeed)
+		{
+			MoveSpeed = newSpeed;
+			PlayerSpeedData.MoveSpeed = newSpeed;
+		}
+
+
 		[Space(10)]
 		[Tooltip("The height the player can jump")]
 		public float JumpHeight = 1.2f;
@@ -100,12 +107,21 @@ namespace StarterAssets
 
 		private void Start()
 		{
+			MoveSpeed = PlayerSpeedData.MoveSpeed;
+			SprintSpeed = PlayerSpeedData.SprintSpeed;
+
+
+
+
+
+
+
 			_controller = GetComponent<CharacterController>();
 			_input = GetComponent<StarterAssetsInputs>();
 #if ENABLE_INPUT_SYSTEM
 			_playerInput = GetComponent<PlayerInput>();
 #else
-			Debug.LogError( "Starter Assets package is missing dependencies. Please use Tools/Starter Assets/Reinstall Dependencies to fix it");
+			Debug.LogError("Starter Assets package is missing dependencies. Please use Tools/Starter Assets/Reinstall Dependencies to fix it");
 #endif
 
 			// reset our timeouts on start
