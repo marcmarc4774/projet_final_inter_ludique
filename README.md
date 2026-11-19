@@ -1,8 +1,8 @@
 # projet_final_inter_ludique
+
 Projet final du cours d'interactivité ludique
 
-## Credits: 
-
+## Credits:
 
 2. Minimalist Buttsur Hover sound Effect par Lesiakower sur Pixabay SFX: [Minimalist Buttsur Hvoer sound Effect](https://pixabay.com/sound-effects/film-special-effects-minimalist-buttsur-hover-sound-effect-399749/) Type: SFX. Licence: CC0.
 
@@ -19,7 +19,7 @@ Projet final du cours d'interactivité ludique
 8. Funny Cartoon Sound par lucadialessandro sur Pixabay SFX: [Funny Cartoon Sound](https://pixabay.com/sound-effects/musical-funny-cartoon-sound-397415/): Type: SFX. Licence CC0
 
 9. Volumetric Lines par Johannes Unterguggenberger sur the Unity Assets store: [Volumetric Lines](https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160) Type: Assets. Licence: [Standard Unity Asset Store EULA
-](https://unity.com/fr/legal/as-terms)
+   ](https://unity.com/fr/legal/as-terms)
 
 10. Funny Cartoon Music par MaksymMalko sur Pixabay SFX: [Funny Cartoon Music](https://pixabay.com/sound-effects/nature-funny-cartosur-music-532611/) Type: Musique. Licence CC0
 
@@ -32,3 +32,5 @@ Projet final du cours d'interactivité ludique
 14. Old Skool Piano par JTWAYNE sur Pixabay SFX: [Old Skool Piano](https://pixabay.com/sound-effects/musical-old-skool-piano-495397/) type: Musique. Licence CC0
 
 15. Night Ambience par cclaretc (Freesound) sur Pixabay SFX: [Night Ambience](https://pixabay.com/sound-effects/nature-night-ambience-17064/) Type: SFX. Licence CC0
+
+16. Snow free icon par Ardiansyah sur Flaticon: [Snow free icon](https://www.flaticon.com/free-icon/snow_6661508) Type: Image. Licence Flaticon: [Licence Flaticon](https://www.flaticon.com/legal)
