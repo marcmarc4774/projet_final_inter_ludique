@@ -34,3 +34,7 @@ Projet final du cours d'interactivité ludique
 15. Night Ambience par cclaretc (Freesound) sur Pixabay SFX: [Night Ambience](https://pixabay.com/sound-effects/nature-night-ambience-17064/) Type: SFX. Licence CC0
 
 16. Snow free icon par Ardiansyah sur Flaticon: [Snow free icon](https://www.flaticon.com/free-icon/snow_6661508) Type: Image. Licence Flaticon: [Licence Flaticon](https://www.flaticon.com/legal)
+
+17. Cartoon jump par Bastianhallo (Freesound) sur Pixabay SFX: [Cartoon jump](https://pixabay.com/sound-effects/film-special-effects-cartoon-jump-6462/) Type: SFX. Licence CC0
+
+18. Metal Hit 91 par floraphonic sur Pixabay SFX: [Metal Hit 91](https://pixabay.com/sound-effects/film-special-effects-metal-hit-91-200421/) Type: SFX. Licence CC0

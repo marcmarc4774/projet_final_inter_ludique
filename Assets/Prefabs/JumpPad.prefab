@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 943620990065770245}
   - component: {fileID: 6110008238121967815}
   - component: {fileID: 4789940612608608070}
+  - component: {fileID: -737182523780035001}
   m_Layer: 0
   m_Name: JumpPad
   m_TagString: Untagged
@@ -140,7 +141,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.ColliderEvent
   conditions: []
-  actions: []
+  actions:
+  - {fileID: -737182523780035001}
   exitActions: []
   holdTime: 0
   afterTrigger: 3
@@ -152,3 +154,17 @@ MonoBehaviour:
   requiredTags:
   - Player
   debugColor: {r: 1, g: 0.4, b: 0, a: 0.3}
+--- !u!114 &-737182523780035001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 954024909972796404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f247ad078a38435b9e19cb43acc693d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.AudioAction
+  target: {fileID: 0}
+  operation: 0
