@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8394238417575527861
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: voice_lines_ennemie6_{-8394238417575527861}
+  m_AudioClip: {fileID: 8300000, guid: bd5ff97fbdd1c354c969f3138e028293, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4976744348038501618
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: voice_lines_ennemie2_{-4976744348038501618}
+  m_AudioClip: {fileID: 8300000, guid: 84c411b386ae0b94cb891b792f2df18b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3989225844363391170
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: voice_lines_ennemie5_{-3989225844363391170}
+  m_AudioClip: {fileID: 8300000, guid: 787b89d9f4d0d1045bec61cdca5b1ab9, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3340689427556898819
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: voice_lines_ennemie1_{-3340689427556898819}
+  m_AudioClip: {fileID: 8300000, guid: 6bb5aa7c587716b448e31f2ba06063a1, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &275579325588243891
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: voice_lines_ennemie3_{275579325588243891}
+  m_AudioClip: {fileID: 8300000, guid: 5578524ba6066c742bcf9eb865584ba6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5137097848386320011
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: voice_lines_ennemie4_{5137097848386320011}
+  m_AudioClip: {fileID: 8300000, guid: 39cd59d9de5e9a74c879b425d34b384f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: voicelines
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 5
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -3340689427556898819}
+  - {fileID: -4976744348038501618}
+  - {fileID: 275579325588243891}
+  - {fileID: 5137097848386320011}
+  - {fileID: -3989225844363391170}
+  - {fileID: -8394238417575527861}
+  m_AvoidRepeatingLast: 1
+  m_PlaybackMode: 2
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 0
+  m_LoopMode: 0
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
