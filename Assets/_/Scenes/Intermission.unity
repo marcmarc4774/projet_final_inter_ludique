@@ -781,6 +781,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SpeedChanger
   player: {fileID: 90239950}
+  additive: 1
 --- !u!1 &104600162
 GameObject:
   m_ObjectHideFlags: 0

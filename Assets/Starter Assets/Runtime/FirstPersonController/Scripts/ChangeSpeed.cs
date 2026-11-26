@@ -6,9 +6,18 @@ public class ChangeSpeed : MonoBehaviour
 {
     public FirstPersonController player;
 
+    [Header("Speed Settings")]
+    public bool additive = false;
+
     public void ChangePlayerSpeed(float newSpeed)
     {
-        player.ChangeSpeed(newSpeed);
-        player.ChangeSpeed(8f);
+        if (additive)
+        {
+            player.ChangeSpeed(player.MoveSpeed + newSpeed);
+        }
+        else
+        {
+            player.ChangeSpeed(newSpeed);
+        }
     }
 }

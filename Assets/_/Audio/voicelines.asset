@@ -69,7 +69,7 @@ AudioRandomContainer:
   m_Name: voicelines
   m_Volume: 0
   m_Pitch: 0
-  m_AutomaticTriggerTime: 5
+  m_AutomaticTriggerTime: 7
   m_LoopCount: 1
   m_VolumeRandomizationRange: {x: 0, y: 0}
   m_PitchRandomizationRange: {x: 0, y: 0}
@@ -82,7 +82,7 @@ AudioRandomContainer:
   - {fileID: 5137097848386320011}
   - {fileID: -3989225844363391170}
   - {fileID: -8394238417575527861}
-  m_AvoidRepeatingLast: 1
+  m_AvoidRepeatingLast: 2
   m_PlaybackMode: 2
   m_TriggerMode: 1
   m_AutomaticTriggerMode: 0
